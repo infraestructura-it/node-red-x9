@@ -1,2 +1,3 @@
 curl -O https://raw.githubusercontent.com/infraestructura-it/node-red-x8/main/setup.sh
-https://raw.githubusercontent.com/infraestructura-it/node-red-x9/refs/heads/main/activar.sh
+curl -O https://raw.githubusercontent.com/infraestructura-it/node-red-x9/refs/heads/main/activar.sh
+curl -O https://raw.githubusercontent.com/infraestructura-it/node-red-x9/refs/heads/main/setup.sh
